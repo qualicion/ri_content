@@ -1,0 +1,10 @@
+# npm / yarn
+node_modules
+yarn-error.log
+
+# staging date change 
+wdio/**/data/date.js
+
+# system
+.DS_Store
+ 

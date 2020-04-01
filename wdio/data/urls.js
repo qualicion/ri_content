@@ -1,0 +1,58 @@
+module.exports.riverIslandUrls =  {
+   uk: {
+     url: 'https://www.riverisland.com/',
+     stagingUrl: 'https://staging.riverisland.com/',
+     countryCode: 'GB',
+     currencyCode: 'GBP',
+     siteCode: 'UK',
+   },
+   ie: {
+     url: 'https://www.riverisland.ie/',
+     stagingUrl: 'https://ie-staging.riverisland.com/',
+     countryCode: 'IE',
+     currencyCode: 'EUR',
+     siteCode: 'IE',
+   },
+   fr: {
+     url: 'https://www.riverisland.fr/',
+     stagingUrl: 'https://fr-staging.riverisland.com/',
+     countryCode: 'FR',
+     currencyCode: 'EUR',
+     siteCode: 'FR',
+   },
+   us: {
+     url: 'https://us.riverisland.com/',
+     stagingUrl: 'https://us-staging.riverisland.com/',
+     countryCode: 'US',
+     currencyCode: 'USD',
+     siteCode: 'US',
+   },
+   au: {
+     url: 'https://au.riverisland.com/',
+     stagingUrl: 'https://au-staging.riverisland.com/',
+     countryCode: 'AU',
+     currencyCode: 'AUD',
+     siteCode: 'AU',
+   },
+   de: {
+     url: 'https://www.riverisland.de/',
+     stagingUrl: 'https://de-staging.riverisland.com/',
+     countryCode: 'DE',
+     currencyCode: 'EUR',
+     siteCode: 'DE',
+   },
+   nl: {
+     url: 'https://www.riverisland.nl/',
+     stagingUrl: 'https://nl-staging.riverisland.com',
+     countryCode: 'NL',
+     currencyCode: 'EUR',
+     siteCode: 'NL',
+   },
+   se: {
+     url: 'https://www.riverisland.se/',
+     stagingUrl: 'https://se-staging.riverisland.com/',
+     countryCode: 'SE',
+     currencyCode: 'SEK',
+     siteCode: 'SE',
+   },
+};
