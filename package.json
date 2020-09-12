@@ -26,6 +26,6 @@
     "webdriverio": "^5.18.4"
   },
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
